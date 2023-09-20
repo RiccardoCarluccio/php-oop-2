@@ -1,9 +1,7 @@
 <?php
-  require_once __DIR__ . '/classes/animali/Categoria.php';
   require_once __DIR__ . '/classes/animali/Cani.php';
   require_once __DIR__ . '/classes/animali/Gatti.php';
 
-  require_once __DIR__ . '/classes/prodotti/Prodotto.php';
   require_once __DIR__ . '/classes/prodotti/Cibo.php';
   require_once __DIR__ . '/classes/prodotti/Gioco.php';
   require_once __DIR__ . '/classes/prodotti/Cuccia.php';
