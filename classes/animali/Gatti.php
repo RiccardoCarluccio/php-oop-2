@@ -1,5 +1,5 @@
 <?php
-  class protected Gatti {
+  class Gatti extends Categoria {
     private $razza;
     private $taglia;
     private $peso;
